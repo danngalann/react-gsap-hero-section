@@ -9,8 +9,9 @@ html {
 }
 
 .hero {
-  visibility: initial;
+  visibility: hidden;
   height: 100vh;
+  overflow: hidden;
   .container {
     width: 1440px;
     min-width: 1440px;
